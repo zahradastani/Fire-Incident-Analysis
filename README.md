@@ -1,8 +1,8 @@
 # Fire Incident Data Analysis & Citizenship Education Model
 
-**Client:** Mashhad Municipality Fire and Safety Services Organization 
-**Associated with:** Ferdowsi University of Mashhad 
-**Duration:** April 2024 – May 2025  
+**Client:** Mashhad Municipality Fire and Safety Services Organization
+**Associated with:** Ferdowsi University of Mashhad
+**Duration:** April 2024 – May 2025
 **Tools & Techniques:** R, K-Means Clustering, Expert Interviews, Survey Analysis  
 
 ## Summary  
